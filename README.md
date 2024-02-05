@@ -1,7 +1,5 @@
 # Automatic-Pet-Feeder
 
-![Animal Feeding System](system_image.jpg)
-
 ## Table of Contents
 
 - [Overview](#overview)
